@@ -1,0 +1,13 @@
+.Form-Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.MainTitle.SubTitle{
+    color: red
+}
+.GroupName{
+    margin:2% 10% 10% 0%;
+    width: 130%;
+    line-height: 300%;
+}
